@@ -1,0 +1,33 @@
+{
+  "name": "@octadezx/shopify",
+  "version": "0.1.1",
+  "description": "Official OctaDezx Shopify AI Chatbot, Hydrogen SDK, Theme App Extension & Server-Side Order Verification Client.",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "homepage": "https://octadezx.com/shopify-chatbot",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cleverfox-77/octadezx-shopify.git"
+  },
+  "bugs": {
+    "url": "https://octadezx.com/developers"
+  },
+  "keywords": [
+    "octadezx",
+    "octadex",
+    "odx",
+    "shopify",
+    "shopify-chatbot",
+    "shopify-ai",
+    "hydrogen",
+    "gorgias-alternative",
+    "intercom-fin-alternative",
+    "multimodal-ai",
+    "multi-step-ai"
+  ],
+  "author": "OctaDezx Engineering <kevin@octadezx.com> (https://octadezx.com)",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  }
+}
